@@ -21,6 +21,6 @@ Some shortcuts to build a pipeline to Google Cloud Platform in a Makefile
 
 **Theses examples use the enviroment variable ENV, but you can use others enviroment variables to replace the variables inside Makefile.**
 
-> Pipeline
+### Pipeline
 
 - To build a pipeline, just choice your git plataform and use some theses commands in your stages
